@@ -1,7 +1,7 @@
 – Array2 from Noah D.
 - Jason Aguirre and Eric Shaw
 – TA Hours with Connor Gray and Isaac Chen
-– Bitpacking correctly implemented, compress/decompress not implemented correctly
+– Bitpacking correctly implemented, compress/decompress correctly implemented.
 – Main.rs calls compress/decompress based on user input.
 Compress trims image and calls process() on 2x2 blocks of pixels.
 process calls convert_to_float which converts the block to floating-point representation.
